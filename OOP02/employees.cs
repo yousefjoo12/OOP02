@@ -77,6 +77,8 @@ namespace OOP02
 				gender = _gender;
 
 			}
+
+
 			else
 			{
 				gender = "No gender";
